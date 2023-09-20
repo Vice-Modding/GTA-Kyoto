@@ -1,0 +1,29 @@
+PT: Deixe este arquivo dentro do modloader. Você tem opção de apagar ou colocar algo como "#" na linha para o arquivo não ser carregado.
+    Para mobile/console: coloque a linha abaixo no final do seu "gta.dat" com um editor de texto, e o arquivo ".ipl" na pasta "data/maps". Pode ser necessário aumentar limites do jogo ou fusionar os arquivos.
+
+EN: Keep this file inside modloader. You have the option of deleting or putting something like "#" on the line so that the file is not loaded.
+    For mobile/console: put the line below at the end of your "gta.dat" with a text editor, and the ".ipl" file in the "data/maps" folder. It may be necessary to increase game limits or merge the files.
+
+
+PT: Este .ipl adiciona objetos que deixam locais específicos do mapa mais bem "populados", e alguns são essenciais para os NPCs das urbanizações. Recomendado não removê-lo.
+EN: This .ipl adds objects that make specific locations on the map better "populated", and some are essential for NPCs in urbanizations. Recommended not to remove it.
+
+IPL data\maps\Urbanize.ipl
+
+
+PT: Este adiciona milhares de lixeiras e containers de lixo. Opcional mas recomendado.
+EN: This one adds thousands of trash cans and dumpsters. Optional but recommended.
+
+IPL data\maps\Urbanize - Bins.ipl
+
+
+PT: Este adiciona mais de mil bancos com pessoas sentadas. Opcional mas recomendado.
+EN: This one adds more than a thousand of benches with people sitting. Optional but recommended.
+
+IPL data\maps\Urbanize - Benches.ipl
+
+
+PT: Este adiciona centenas de mesas e cadeiras, que também incluem pessoas. Opcional mas recomendado.
+EN: This one adds hundreds of tables and chairs, which also include people.. Optional but recommended.
+
+IPL data\maps\Urbanize - Chairs.ipl
