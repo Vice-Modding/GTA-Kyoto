@@ -1,0 +1,258 @@
+NONET Radio Off
+NONE1 Radio fora de alcance
+NONE2 Debug on
+NONE3 Debug off
+ATPDB1 Carregando bass.dll...
+ATPDB4 ~r~ERRO~s~: Erro ao aplicar EQ!~n~BASS_Error 5: Handle Invalido!~n~[Radio ~1~][FXFlag: ~1~]
+ATPDB5 ~r~ERRO~s~: Erro ao aplicar EQ!~n~BASS_Error 20: Parametro Invalido!~n~[Radio ~1~][FXFlag: ~1~]
+ATPDB6 ~r~ERRO~s~: Erro ao aplicar EQ!~n~BASS_Error -1: Problema Desconhecido!~n~[Radio ~1~][FXFlag: ~1~]
+
+BROCT BRock
+BROC0 Mamonas Assassinas - Money
+BROC1 Capital Inicial - Nada Vai Te Machucar
+BROC2 Capital Inicial - Primeiros Erros
+BROC3 Cazuza - Pro dia Nascer feliz
+BROC4 CPM22 - Um Minuto Para O Fim Do Mundo
+BROC5 Detonautas - Quando o Sol Se For
+BROC6 Graforreia Xilarmonica - Amigo Punk
+BROC7 Ira! - Tarde Vazia
+BROC8 Jota Quest - Morrer de Amor
+BROC9 Legião Urbana - Faroeste Caboclo
+BROC10 Los Hermanos - Anna Julia
+BROC11 Matanza - Clube dos Canalhas
+BROC12 NXZero - Razoes e emoçoes
+BROC13 Pitty - Na Sua Estante
+BROC14 Raimundos - Mulher de Fases
+BROC15 Raul Seixas - Cowboy Fora Da Lei
+BROC16 RPM - Olhar 43
+BROC17 RPM - Rádio Pirata
+BROC18 Skank - Sutilmente
+BROC19 Skank - Vou Deixar
+
+FUNKT Baile da Onda FM
+FUNK0 Bonde R300 - Oh Nanana
+FUNK1 MC Kevinho - Agora é tudo Meu
+FUNK2 Kevin o Chris - Medley da Gaiola
+FUNK3 MC Daleste - Angra dos Reis
+FUNK4 MC Fioti - Bum Bum Tam Tam
+FUNK5 MC Guimê - Plaque de 100
+FUNK6 MC Guimê - País do Futebol
+FUNK7 MCs Gustta e DG - Abusadamente
+FUNK8 MC João - Baile de Favela
+FUNK9 MC Kevinho e Leo Santana - Encaixa
+FUNK10 MC Lan - Open the Tcheka
+FUNK11 MC Leozinho - Se Ela Dança Eu Danço
+FUNK12 MC MM - Só Quer Vrau
+FUNK13 MCS Nando DK e Jerry Smith - Troféu do Ano
+FUNK14 MC Rodolfinho - Os Mlk é Liso
+FUNK15 MC WM - Fuleragem
+FUNK16 MC Zaac - Vai Embrazando
+FUNK17 MCs Jhowzinho e Kadinho - Agora vai Sentar
+FUNK18 MCs Zaac e Jerry Smith - Bumbum Granada
+FUNK19 Os Cretinos e MC WM - Qual BumBum Mais Bate
+
+TERRT Terra Vermelha
+TERR0 Tião Carreiro e Pardinho - Boi Soberano
+TERR1 Tião Carreiro e Pardinho - Catimbau
+TERR2 Chitãozinho e Xororó - Galopeira
+TERR3 Tião Carreiro e Pardinho - Empreitada Perigosa
+TERR4 Liu e Léu - Boiadeiro Errante
+TERR5 Lourenço e Lourival - Armadilha do Destino
+TERR6 Lourenço e Lourival - Franguinho na Panela
+TERR7 Milionário e José Rico - Sonhei Com Você
+TERR8 Milionário e José Rico - Estrada Da Vida
+TERR9 Mocóca e Paraíso - O Ipê e o Prisioneiro
+TERR10 Liu e Léu - Rei do Café
+TERR11 Tonico e Tinoco - Carro de Boi
+TERR12 Tonico e Tinoco - Moreninha Linda
+TERR13 Trio Parada Dura - Paineira Velha
+TERR14 Zico e Zeca - Castigo
+
+DOPET DOPE
+DOPE0 DJ Snake Lil Jon - Turn Down For What
+DOPE1 Djjr (feat. Beta Max) - Old Habits VIP
+DOPE2 Djjr - Pacman
+DOPE3 Eptic (feat. Virus Syndicate) - Bust 'Em Out 
+DOPE4 Excision - The Paradox
+DOPE5 Excision & Pegboard Nerds (feat. Mayor Apeshit) - Bring The Madness 
+DOPE6 Getter & Ghostemane - Bury Me
+DOPE7 Getter - Fricken Dope
+DOPE8 Getter (feat. Georgia Ku) - Blood
+DOPE9 Kill The Noise - Kill The Noise (Part I)
+DOPE10 Knife Party - Bonfire
+DOPE11 Koven - Never Have I Felt This
+DOPE12 Pegboard Nerds & NGHTMRE (feat. Krewella) - Superstar 
+DOPE13 Rickyxsan (feat. iE-z) - Growlin'
+DOPE14 RL Grime - Core
+DOPE15 Skrillex - Ruffneck Fire (VIP 2)
+DOPE16 Scroobius Pip - The Struggle (Doctor P Remix) Getter & AFK VIP
+DOPE17 Skrillex - All Is Fair In Love And Brostep With Ragga Twins
+DOPE18 Zomboy - Like A Bitch (Kill The Noise Remix)
+DOPE19 Zomboy (feat. Bok Nero) - Rotten
+
+BTOPT Baladinha Top
+BTOP0 Gustavo Mioto part. Jorge e Mateus - Anti-Amor 
+BTOP1 Gusttavo Lima - Apelido Carinhoso
+BTOP2 Henrique e Juliano - Até Você Voltar
+BTOP3 Henrique e Juliano - Cuida Bem Dela
+BTOP4 Humberto e Ronaldo part. Jerry Smith - Não Fala Não Pra Mim 
+BTOP5 João Bosco e Vinícius - Deixaria Tudo
+BTOP6 Luan Santana - Te esperando
+BTOP7 Luan Santana - Acordando o Prédio
+BTOP8 Lucas Lucco - Vai Vendo
+BTOP9 Mano Walter - Não Deixo Não
+BTOP10 Marcos e Belutti part. Wesley Safadão - Aquele 1%
+BTOP11 Marília Mendonça - Infiel
+BTOP12 Matheus e Kauan - O Nosso Santo Bateu
+BTOP13 Paula Fernandes - Pássaro de Fogo
+BTOP14 Victor e Leo - Borboletas
+BTOP15 Zé Neto e Cristiano - Largado às Traças
+
+TRACT Cultura Track
+TRAC0 1Kilo - Deixe-me Ir
+TRAC1 Hungria Hip Hop part. Mr Catra - Bolo Doido
+TRAC2 Tribo da Periferia - Carro de Malandro
+TRAC3 Cauê Moura - Delírio
+TRAC4 Cynthia Luz e Sant - Olhares
+TRAC5 Cesar, Jhony, Thiago, Noventa e Samurai - Cypher Dissparo
+TRAC6 ADL, Choise, Djonga, Menor do Chapa e Negra li - Favela Vive 3
+TRAC7 Froid - Pseudosocial
+TRAC8 Haikaiss - A Praga
+TRAC9 Haikaiss part. MC Lan e Ojuara - Não Vou Morrer de Ficar Rico
+TRAC10 Tribo da Periferia part. Hungria Hip Hop - Insônia
+TRAC11 Hungria Hip Hop - Lembranças
+TRAC12 Racionais MC's - Negro Drama
+TRAC13 Projota - Ela Só Quer Paz
+TRAC14 Projota part. Negra Li - O Homem Que Não Tinha Nada
+TRAC15 Racionais MC's - Vida Loka Parte II
+TRAC16 Racionais MC's - Homens na Estrada
+TRAC17 Racionais MC's - Da Ponte Pra Cá
+TRAC18 Sabotage - Um Bom Lugar
+TRAC19 Costa Gold - TheCypherDeffect
+
+BEATT Beat Home
+BEAT0 Aaron Smith - Dancin (KRONO Remix)
+BEAT1 Afrojack (feat. Spree Wilson) - The Spark
+BEAT2 Alan Walker - Alone
+BEAT3 Alok e Bhaskar - Fuego
+BEAT4 Alok, Bruno Martini (feat. Zeeba) - Hear Me Now
+BEAT5 AronChupa - I'm an Albatraoz
+BEAT6 Avicii - Wake Me Up
+BEAT7 Bebe Rexha - I Got You
+BEAT8 Calvin Harris - Summer
+BEAT9 Calvin Harris & Alesso (feat. Hurts) - Under Control
+BEAT10 Dada Life - Don't Feed the Dada
+BEAT11 David Guetta (feat. Nicki Minaj) - Turn Me On
+BEAT12 David Guetta e Showtek (feat. Vassy) - Bad 
+BEAT13 Dillon Francis, DJ Snake - Get Low
+BEAT14 Felguk - This Life
+BEAT15 Major Lazer e DJ Snake (feat. MO) - Lean On
+BEAT16 Miker Posner - I Took a Pill in Ibiza
+BEAT17 Sidney Samson - Riverside (Motherfucker mix)
+BEAT18 Tom Swoon e Stadiumx (feat. Rico e Miella) - Ghost
+BEAT19 Vanic x Zella Day - Hypnotic
+
+ROLLT Rolling Rocks
+ROLL0 AC/DC - Highway to Hell
+ROLL1 AC/DC - Rock or Bust
+ROLL2 Bon Jovi - Misunderstood
+ROLL3 Disturbed - Stricken
+ROLL4 Green Day - Boulevard of Broken Dreams
+ROLL5 Imagine Dragons - Natural
+ROLL6 Kiss - I Was Made For Lovin' You
+ROLL7 Led Zeppelin - Immigrant Song
+ROLL8 Linkin Park - In The End
+ROLL9 Linkin Park - Numb
+ROLL10 Metallica - One
+ROLL11 Nirvana - Smells Like Teen Spirit
+ROLL12 Queen - Under Pressure
+ROLL13 Red Hot Chili Peppers - Californication
+ROLL14 Slipknot - Before I Forget
+ROLL15 Slipknot - Psychosocial
+ROLL16 System of a Down - Chop Suey
+ROLL17 System of a Down - Toxicity
+ROLL18 Animals - The House of the Rising Sun
+ROLL19 Three Days Grace - Last To Know
+
+APOPT Apopcalypse
+APOP0 Anitta - Veneno
+APOP1 Anitta, Mc Zaac, Maejor (feat. Tropkillaz & DJ Yuri Martins) - Vai Malandra
+APOP2 Billie Eilish - Bad Guy
+APOP3 Marshmello (feat. Bastille) - Happier
+APOP4 Camila Cabello - Havana
+APOP5 Clean Bandit - Rockabye
+APOP6 Coldplay - Paradise
+APOP7 Demi Lovato - Neon Lights
+APOP8 DJ Snake, Sean Paul, Anitta (feat. Tainy) - Fuego 
+APOP9 Imagine Dragons - Radioactive
+APOP10 Ina Wroldsen & Alok - Favela
+APOP11 James Arthur - Impossible
+APOP12 Maroon 5 - Memories
+APOP13 Katy Perry - Firework
+APOP14 Katy Perry - Part Of Me
+APOP15 Michael Jackson - They Don't Care About Us
+APOP16 Pitbull (feat. Ke$ha) - Timber
+APOP17 Rag'n'Bone Man - Human
+APOP18 Shawn Mendes, Camila Cabello - Señorita
+APOP19 Sia - Cheap Thrills
+
+RAPUT RAPublic
+RAPU0 2Pac - Ambitionz Az A Ridah
+RAPU1 50 Cent - In Da Club 
+RAPU2 Dr. Dre (feat. Snoop Dogg) - Still Dre
+RAPU3 Drake - God's Plan
+RAPU4 Eminem - Lose Yourself
+RAPU5 Eminem - Not Afraid
+RAPU6 Future - Mask Off
+RAPU7 Gorillaz - Clint Eastwood
+RAPU8 Imagine Dragons, Lil Wayne & Wiz Khalifa - Sucker for Pain
+RAPU9 Juice Wrld - Lucid Dreams
+RAPU10 Kanye West (feat. Lil Pump) - I Love It
+RAPU11 Lil Pump - Gucci Gang
+RAPU12 Post Malone - Better Now
+RAPU13 Post Malone (feat. 21 Savage) – rockstar
+RAPU14 Post Malone (feat. Quavo) - Congratulations
+RAPU15 The Notorious B.I.G. - Juicy
+RAPU16 Travis Scott (feat. Drake) - SICKO MODE
+RAPU17 Wiz Khalifa (feat. Charlie Puth) - See You Again
+RAPU18 Wiz Khalifa (feat. Snoop Dogg and Bruno Mars) - Young Wild and Free
+RAPU19 Y2K, bbno$ - Lalala
+
+PAGOT PaGOD
+PAGO0 Br'oZ - Prometida
+PAGO1 Exaltassamba - Tá vendo aquela Lua
+PAGO2 Exaltassamba - Me Apaixonei Pela Pessoa Errada
+PAGO3 Felipe Araújo & Ferrugem - Atrasadinha
+PAGO4 Grupo Revelação - A Paixao Me Pegou
+PAGO5 Inimigos Da HP - Toca Um samba Ai - 
+PAGO6 Molejo - Dança da Vassoura
+PAGO7 Pixote - Nem de Graça
+PAGO8 Raça Negra - Cheia De Manias
+PAGO9 Seu Jorge - Amiga Da Minha Mulher
+PAGO10 Thiaguinho feat. Neymar - Ousadia e Alegria
+PAGO11 Turma do Pagode - Camisa 10
+PAGO12 Turma do Pagode - Cobertor de Orelha
+PAGO13 Turma do Pagode - Lancinho
+PAGO14 Zeca Pagodinho - Deixa A Vida Me Levar
+
+BRAST Brasileirinhas
+BRAS0 Ana Carolina - Eu Sei Que Vou Te Amar
+BRAS1 Ana Carolina - Quem De Nós Dois
+BRAS2 Armandinho - Semente
+BRAS3 BRAGABOYS - Bomba
+BRAS4 Caetano Veloso - Alegria Alegria
+BRAS5 Charlie Brown Jr - Zóio de Lula
+BRAS6 Daniela Mercury - O Canto Da Cidade
+BRAS7 Elza Soares - O Tempo Não Para
+BRAS8 Frejat - Segredos
+BRAS9 Ivete Sangalo - Festa
+BRAS10 Jammil- Praieiro
+BRAS11 Kell Smith - Era Uma Vez
+BRAS12 Nando Reis - Segundo Sol
+BRAS13 Netinho - Milla
+BRAS14 O Rappa - Anjos
+BRAS15 Pedro e Thiago - Toque de Mágica
+BRAS16 Planet Hemp - Legalize Já
+BRAS17 Tribalistas - Já Sei Namorar
+BRAS18 Um44k - 4 da Manhã
+BRAS19 Vitor Kley e Bruno Martini - Morena
