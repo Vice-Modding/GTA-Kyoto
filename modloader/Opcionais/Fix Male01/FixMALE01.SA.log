@@ -1,0 +1,11 @@
+v2.0b3 by Junior_Djjr - MixMods.com.br
+-- START fix for vehicle id 518 type 20
+manual fixed gang 117 gang id 6
+-- FINAL 117
+-- START fix for vehicle id 518 type 21
+manual fixed gang 114 gang id 7
+-- FINAL 114
+will fix vehicle 
+-- START fix for vehicle id 538 type -1
+253 for vehicle, class 255
+-- FINAL 253
