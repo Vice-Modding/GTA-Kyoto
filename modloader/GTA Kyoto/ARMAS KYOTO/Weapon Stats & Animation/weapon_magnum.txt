@@ -1,0 +1,4 @@
+weapon.dat
+$ DESERT_EAGLE		INSTANT_HIT	25.0 30.0	348	-1		2	pythonbad	6	 70	0.41  0.03  0.12    0  0	0.75 1.0 	 7 36  8     6 30  7  40	7001
+$ DESERT_EAGLE		INSTANT_HIT	30.0 35.0	348	-1		2	python		6	 140	0.41  0.03  0.12    1  200	1.0  1.2 	 6 30  7     6 28  7  40	7011
+$ DESERT_EAGLE		INSTANT_HIT	35.0 35.0	348	-1		2	python		6	 140	0.41  0.03  0.12    2  999	1.25 1.5 	 6 28  7     6 28  7  40	7031
